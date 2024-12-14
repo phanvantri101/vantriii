@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SVN-Tungsten';
+    src: url('SVN-TungstenMedium.eot');
+    src: url('SVN-TungstenMedium.eot?#iefix') format('embedded-opentype'),
+        url('SVN-TungstenMedium.woff2') format('woff2'),
+        url('SVN-TungstenMedium.woff') format('woff'),
+        url('SVN-TungstenMedium.ttf') format('truetype'),
+        url('SVN-TungstenMedium.svg#SVN-TungstenMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
